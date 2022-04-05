@@ -75,3 +75,25 @@ ol > li > a:hover {
 ol > li > a:active {
     color: #3897D3;
 }
+.article-container{
+    font-size:large;
+}
+.article-container h1{
+    margin-bottom: 1em;
+}
+.article-container p {
+    padding: 1em 0;
+}
+.article-container ol li {
+    margin-bottom: 0;
+}
+.article-container a{
+    color: #3897D3;
+    text-decoration: none;
+}
+.article-container a:hover {
+    color: #1ea547;
+}
+.article-container a:active {
+    color: #3897D3;
+}
